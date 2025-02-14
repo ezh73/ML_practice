@@ -23,4 +23,5 @@ titanic 폴더엔 https://www.kaggle.com/competitions/titanic에서 다운 받�
 
 wine_quality 폴더엔 https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009에서 다운 받은 레드와인의 품질 예측 머신러닝 과제
 
+https://www.kaggle.com/datasets/gauravduttakiit/white-wine-quality의 데이터 사용해 화이트와인의 품질 예측 모델 추가
 
