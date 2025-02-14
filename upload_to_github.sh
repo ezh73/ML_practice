@@ -6,6 +6,6 @@ git init
 
 git add .
 
-git commit -m '자동커밋 : $(date)'
+git commit -m "자동 커밋: $(date)"
 
 git push -u origin master
