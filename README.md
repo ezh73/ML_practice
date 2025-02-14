@@ -25,3 +25,4 @@ wine_quality 폴더엔 https://www.kaggle.com/datasets/uciml/red-wine-quality-co
 
 https://www.kaggle.com/datasets/gauravduttakiit/white-wine-quality의 데이터 사용해 화이트와인의 품질 예측 모델 추가
 
+github에 커밋하는 shell script 작성
