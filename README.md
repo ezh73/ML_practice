@@ -1,6 +1,7 @@
 ML_subject
-|   enviornment.yml
+|   environment.yml
 |   README.md
+|   upload_to_github.sh
 |
 +---iris
 |       iris.ipynb
@@ -11,9 +12,11 @@ ML_subject
 |       train.csv
 |
 \---wine_quality
+        Testing_set_whitewine.csv
+        Training_set_whitewine.csv
         winequality-red.csv
-        wine_quality.ipynb
-
+        wine_quality_red.ipynb
+        wine_quality_white.ipynb
 
 numpy ,pandas, scikit-learn, matplotlib, seaborn, scipy 라이브러리를 사용
 
