@@ -1,3 +1,4 @@
+```
 ML_subject
 |   environment.yml
 |   README.md
@@ -22,6 +23,8 @@ ML_subject
         winequality-red.csv
         wine_quality_red.ipynb
         wine_quality_white.ipynb
+```
+
 
 numpy ,pandas, scikit-learn, matplotlib, seaborn, scipy 등의 라이브러리를 사용
 
